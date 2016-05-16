@@ -1,8 +1,6 @@
 <?php 
-
 function getname($name)
 {
-
     
 $names = "koer  123
 kass    456
@@ -15,17 +13,13 @@ kana    25887";
     foreach($rows as $key => $val)
     {
         $temp = explode("    ", $val);
-        $surnames[$temp[0]] = $temp(1);
+        $surenames[$temp[0]] = $temp(1);
     }
     print_r($surename);
     
     
     return $count;
     
-
 }
-
 getname("koer");
-
-
  ?>
