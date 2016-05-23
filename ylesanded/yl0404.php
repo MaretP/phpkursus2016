@@ -45,10 +45,10 @@ Sugu:
 </tr>
 <tr>
 <td>
-Kirjeldus:
+Kommentaar:
 </td>
 <td>
-<input type=text name=kirjeldus value="" size=100><br>
+<input type=text name=kommentaar value="" size=100><br>
 </td>
 <tr>
 <td>
