@@ -1,0 +1,47 @@
+body {
+text-align: center;
+background-size: cover;
+}
+
+.bla12 { 
+font-family: verdana; 
+font-style: normal; 
+font-variant: normal; 
+font-size: 12px; 
+line-height: 1.2em; 
+color: #408000; 
+} 
+ 
+.box { 
+padding: 5px; 
+width: 600px; 
+background-color: #b3ff99;
+border: 1px solid #408000; 
+margin-right: auto; margin-left: auto;
+font-family: Verdana, arial, serif;
+font-size: 12px;
+} 
+ 
+#messbox { 
+padding: 5px; 
+height: 450px; 
+width: 600px; 
+background-color: #ffffff; 
+border: 1px solid #408000;
+opacity: 0.7; 
+overflow: auto; 
+margin-right: auto; margin-left: auto; text-align: left;
+font-family: Verdana, arial, serif;
+font-size: 12px;
+} 
+
+#userbox {
+padding: 5px; 
+width: 600px; 
+background-color: #8cff66; 
+border: 1px solid #408000; 
+margin-right: auto; margin-left: auto; text-align: left;
+font-family: Verdana, arial, serif;
+font-size: 12px;
+color: #284d00;
+}
